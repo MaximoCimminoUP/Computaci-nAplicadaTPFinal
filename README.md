@@ -2,7 +2,7 @@
 
 **Integrantes**:
 - Milagros Guzmán Abarca
-- Ezequiel Zylbersztajn
+- Ezequiel Franco Zylbersztajn Fusco
 - Máximo Alejandro Cimmino
 
 ---
